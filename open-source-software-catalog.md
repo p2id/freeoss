@@ -4,7 +4,7 @@
 
 ## Catalog policy
 - English names for consistency.
-- Deduplicated within the expanded catalog.
+- Avoid duplicates within a category; cross-listed projects may appear in multiple categories for discoverability.
 - Inclusion does not by itself certify the current license, maintenance status, or security posture.
 - A future machine-readable edition should add: `name | category | subcategory | license | SPDX | language | platform | repository | website | status | last_verified | description`.
 
